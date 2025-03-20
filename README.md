@@ -15,8 +15,8 @@ Feature Importance Analysis: Identifies the most influential factors affecting h
 Age & Maximum Heart Rate significantly impact heart disease risk.
 Scatter plots and regression models reveal key relationships between medical parameters 💡.
 A well-optimized Random Forest model ensures reliable classification results.
-📈 Model Performance & Future Scope
-Achieved X% accuracy (mention your result).
+📈 ModelPerformance & Future Scope
+Achieved 84.5 % accuracy.
 Potential improvements:
 🔹 Testing deep learning models (e.g., Neural Networks).
 🔹 Integrating real-time patient data from wearables.
